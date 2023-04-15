@@ -12,5 +12,6 @@ Goals:
 - get new profession
 - get new job
 
-![My photo](/C:/Фотоальбом/фото загран/фото загран_2.jpg)
+![My photo](/C:\Users\welli\Desktop\My page\images\фото загран_2.jpg)
+
 
